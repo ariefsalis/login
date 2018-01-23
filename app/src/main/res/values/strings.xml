@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_home">home</string>
+
+    <string name="email_kosong">home</string>
+    <string name="email_tidak_valid">home</string>
+</resources>
